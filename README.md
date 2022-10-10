@@ -2,7 +2,7 @@
 
 ### Ideas
 
-Have a think about what might be a good project for week 7-10. 
+Have a think about what might be a good project for week 7-9. 
 You can follow this template: 
 
 - Name (Your name)
