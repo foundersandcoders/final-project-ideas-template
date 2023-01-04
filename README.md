@@ -2,7 +2,7 @@
 
 ### Overview
 
-The In-house project (during weeks 7-9) is the first of 2 3-week projects that take place in the second half of the apprenticeship programme. The project is composed of a 1-week design sprint and 2 design sprints. It is an opportunity to work on a larger project before Tech for Better (weeks 10-12).
+The In-house project (during weeks 7-9) is the first of two 3-week projects that take place in the second half of the apprenticeship programme. The project is composed of a 1-week design sprint and two 1-week build sprints. It is an opportunity to work on a larger project before Tech for Better (weeks 10-12).
 
 ### Ideas
 
